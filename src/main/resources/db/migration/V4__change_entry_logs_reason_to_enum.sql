@@ -1,0 +1,2 @@
+ALTER TABLE entry_logs
+    ALTER COLUMN reason TYPE VARCHAR(50);
